@@ -4,7 +4,7 @@ import math
 
 
 
-secret_key = "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"
+secret_key = "sk-LvhyXyNi3DT6Lah3fXhYT3BlbkFJ146Trc236ZdVrYUhXASW8n"
 import os
 import openai
 
