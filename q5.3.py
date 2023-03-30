@@ -2,11 +2,20 @@ import json
 import random
 import math
 
+import logging
+
+# Set up logging
+logging.basicConfig(filename='output.log', level=logging.INFO)
 
 
-secret_key = "sk-LvhyXyNi3DT6Lah3fXhYT3BlbkFJ146Trc236ZdVrYUhXASW8n"
+
+
+# setting up openAI
 import os
+secret_key = "SK"
 import openai
+
+# print(secret_key)
 
 openai.api_key = secret_key
 
@@ -25,7 +34,11 @@ def call_davinci(prompt, golden_answer):
     print(f'Golden Answer: {golden_answer}')
     print(f'Score: {1 if response["choices"][0]["text"].strip() == str(golden_answer) else 0}\n')
     
-    # print(response["choices"][0]["text"].strip() == str(golden_answer))
+    logging.info(f'\nCompletion: {response["choices"][0]["text"].strip()}')
+    logging.info(f'Golden Answer: {golden_answer}')
+    logging.info(f'Score: {1 if response["choices"][0]["text"].strip() == str(golden_answer) else 0}\n')
+    
+    
     return 1 if response["choices"][0]["text"].strip() == str(golden_answer) else 0
 
 
@@ -81,5 +94,7 @@ for i in range(iterations):
         selected = False
     
 print(f'Accuracy: {score/iterations * 100}')
+logging.info(f'Accuracy: {score/iterations * 100}')
+
         
     

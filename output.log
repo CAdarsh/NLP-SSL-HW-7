@@ -1,0 +1,151 @@
+INFO:root:
+Completion: True
+INFO:root:Golden Answer: True
+INFO:root:Score: 1
+
+INFO:root:
+Completion: True
+INFO:root:Golden Answer: True
+INFO:root:Score: 1
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: True
+INFO:root:Score: 0
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: True
+INFO:root:Score: 0
+
+INFO:root:
+Completion: True
+INFO:root:Golden Answer: True
+INFO:root:Score: 1
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: False
+INFO:root:Score: 1
+
+INFO:root:
+Completion: True
+INFO:root:Golden Answer: True
+INFO:root:Score: 1
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: False
+INFO:root:Score: 1
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: False
+INFO:root:Score: 1
+
+INFO:root:
+Completion: True
+INFO:root:Golden Answer: True
+INFO:root:Score: 1
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: True
+INFO:root:Score: 0
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: True
+INFO:root:Score: 0
+
+INFO:root:
+Completion: True
+INFO:root:Golden Answer: True
+INFO:root:Score: 1
+
+INFO:root:
+Completion: True
+INFO:root:Golden Answer: True
+INFO:root:Score: 1
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: True
+INFO:root:Score: 0
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: False
+INFO:root:Score: 1
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: False
+INFO:root:Score: 1
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: False
+INFO:root:Score: 1
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: True
+INFO:root:Score: 0
+
+INFO:root:
+Completion: True
+INFO:root:Golden Answer: True
+INFO:root:Score: 1
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: False
+INFO:root:Score: 1
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: True
+INFO:root:Score: 0
+
+INFO:root:
+Completion: True
+INFO:root:Golden Answer: True
+INFO:root:Score: 1
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: True
+INFO:root:Score: 0
+
+INFO:root:
+Completion: True
+INFO:root:Golden Answer: True
+INFO:root:Score: 1
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: False
+INFO:root:Score: 1
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: True
+INFO:root:Score: 0
+
+INFO:root:
+Completion: True
+INFO:root:Golden Answer: True
+INFO:root:Score: 1
+
+INFO:root:
+Completion: False
+INFO:root:Golden Answer: False
+INFO:root:Score: 1
+
+INFO:root:
+Completion: True
+INFO:root:Golden Answer: True
+INFO:root:Score: 1
+
+INFO:root:Accuracy: 70.0
